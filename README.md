@@ -3,8 +3,7 @@
 
 ## I am focused, detailed and fascinated by innovation!
 
-- 🔭 I’m currently working on a [React](https://reactjs.org/website)!
-- 🌱 I’m currently learning React, React Native and Node
+- 🌱 I’m currently learning [React](https://reactjs.org/website), [React Native](https://reactnative.dev/) and [Node](https://nodejs.org/en/)
 - 🥅 2020 Goals: Get my first job as a developer
 - ⚡ Fun fact: I love play guitar and now i'm studying Mandarin
 
