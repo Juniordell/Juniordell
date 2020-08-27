@@ -1,17 +1,18 @@
-### Hi there 👋
+### Hi there, i'm Nelson Junior 👋
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fnelsonjrportfolio.imfast.io)](https://nelsonjrportfolio.imfast.io/)
 
+## I am focused, detailed and fascinated by innovation!
+
+- 🔭 I’m currently working on a [React][https://reactjs.org/website]!
 - 🌱 I’m currently learning React, React Native and Node
+- 🥅 2020 Goals: Get my first job as a developer
+- ⚡ Fun fact: I love play guitar and now i'm studying Mandarin
 
+### Connect with me:
 
-<!--
-**Juniordell/Juniordell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="nelsonjr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://nelsonjrportfolio.imfast.io/)
+[<img align="left" alt="nelsonjr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nelson-dellosbel-junior/)
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Junior's github stats](https://github-readme-stats.vercel.app/api?username=juniordell)](https://github.com/anuraghazra/github-readme-stats)
