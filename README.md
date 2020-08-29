@@ -1,8 +1,9 @@
 ### Hi there, i'm Nelson Junior 👋
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fnelsonjrportfolio.imfast.io)](https://nelsonjrportfolio.imfast.io/)
 
-## I am focused, detailed and fascinated by innovation!
+## About
 
+- 🙍‍♂️ personality: I am focused, detailed and fascinated by innovation!
 - 🌱 I’m currently learning [React](https://reactjs.org/website), [React Native](https://reactnative.dev/) and [Node](https://nodejs.org/en/)
 - 🥅 2020 Goals: Get my first job as a developer
 - ⚡ Fun fact: I love play guitar and now i'm studying Mandarin
