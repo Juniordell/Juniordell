@@ -15,15 +15,5 @@
 <br />
 <br />
 
-<details>
-  <summary>⚡ Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<br />
-<br />
 
 [![Junior's github stats](https://github-readme-stats.vercel.app/api?username=juniordell)](https://github.com/anuraghazra/github-readme-stats)
