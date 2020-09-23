@@ -1,9 +1,8 @@
 ### Hi there, i'm Nelson Junior 👋
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fnelsonjrportfolio.imfast.io)](https://nelsonjrportfolio.imfast.io/)
 
 ## About
 
-- 🙍‍♂️ personality: I am focused, detailed and fascinated by innovation!
+- 🙍‍♂️ Personality: I am focused, detailed and fascinated by innovation!
 - 🌱 I’m currently learning [React](https://reactjs.org/website), [React Native](https://reactnative.dev/) and [Node](https://nodejs.org/en/)
 - 🥅 2020 Goals: Get my first job as a developer
 - ⚡ Fun fact: I love play guitar and now i'm studying Mandarin
@@ -15,7 +14,5 @@
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078d4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:nelson.dellosbel@edu.pucrs.br)](mailto:nelson.dellosbel@edu.pucrs.br)
 
 <br />
-<br />
-
 
 [![Junior's github stats](https://github-readme-stats.vercel.app/api?username=juniordell)](https://github.com/anuraghazra/github-readme-stats)
