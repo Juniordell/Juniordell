@@ -15,4 +15,4 @@
 
 <br />
 
-[![Junior's github stats](https://github-readme-stats.vercel.app/api?username=juniordell)](https://github.com/Juniordell)
+[![Junior's github stats](https://github-readme-stats.vercel.app/api?username=juniordell&theme=radical)](https://github.com/Juniordell)
