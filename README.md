@@ -3,8 +3,8 @@
 ## About
 
 - 🙍‍♂️ Personality: I am focused, detailed and fascinated by innovation!
-- 🌱 I’m currently learning [React](https://reactjs.org/website), [React Native](https://reactnative.dev/) and [Node](https://nodejs.org/en/)
-- 🥅 2020 Goals: Get my first job as a developer
+- 🌱 I’m currently learning [Python](https://www.python.org/), [Pandas](https://pandas.pydata.org/) and [Matplotlib](https://matplotlib.org/)
+- 🥅 2021 Goals: Get my first job as data scientist
 - ⚡ Fun fact: I love play guitar and now i'm studying Mandarin
 
 ### Connect with me:
