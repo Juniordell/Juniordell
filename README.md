@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nelson Dell Junior
+# Nelson Dell Osbel Junior
 
 **Data Scientist · AI Builder · Fintech**
 
@@ -16,12 +16,11 @@
 
 ## About me
 
-I'm a Data Scientist with 4+ years of experience building ML solutions in fintech and investment advisory. I focus on the full lifecycle — from EDA and model research to production deployment and monitoring. Currently deepening my work in LLMs, multi-agent systems, and conversational AI.
+I'm a Data Scientist with 4+ years of experience building ML solutions in fintech and investment advisory. I focus on the full lifecycle, from EDA and model research to production deployment and monitoring. Currently deepening my work in LLMs, multi-agent systems, and conversational AI.
 
-- 🏦 Founder of **Atlas Wealth** — AI-powered financial planning for private clients
+- 🏦 Founder of **Atlas Wealth**: AI-powered financial planning for private clients
 - 🤖 Building with LLMs: RAG pipelines, prompt engineering, hallucination evaluation
-- 📈 Background in investment advisory (XP Investimentos, CEA certification)
-- 🌎 Based in Porto Alegre, Brazil · Planning extended stay in **Austin, TX**
+- 🌎 Based in Porto Alegre, Brazil
 - 🎸 Guitar player · 🀄 Studying Mandarin · 🏋️ Training 5x/week
 
 ---
